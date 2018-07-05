@@ -1,4 +1,4 @@
-import App
+import Lynx
 import XCTest
 
 final class AppTests: XCTestCase {
