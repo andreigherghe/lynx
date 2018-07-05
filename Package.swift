@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "Lynx",
     products: [
-        .library(name: "Lynx", targets: ["Lynx"]),
+        .library(name: "Lynx", targets: ["App"]),
     ],
     dependencies: [
         // 💧 A server-side Swift web framework.
